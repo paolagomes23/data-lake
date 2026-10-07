@@ -1,0 +1,9 @@
+{
+    "id_antena": "AP02",
+    "timestamp": "2026-10-06T22:08:34.132979",
+    "bytes_sent": 147307,
+    "bytes_recv": 566545,
+    "active_connections": 9,
+    "cpu_use_percent": 87,
+    "ram_use_gb": 6
+}

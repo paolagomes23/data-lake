@@ -1,0 +1,4 @@
+timestamp,bytes_antenas,bytes_firewall,diferenca_bytes,percentual_perda,status
+2026-10-06T22:08,1826120,1826120,0,0.0,Normal
+2026-10-06T22:10,2781370,2781370,0,0.0,Normal
+2026-10-06T22:11,4527989,4527989,0,0.0,Normal

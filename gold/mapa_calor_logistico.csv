@@ -1,0 +1,5 @@
+id_antena,conexoes_media,cpu_media_percent,ram_media_gb,vazao_media_mbps,nivel_carga
+AP01,28.0,48.0,11.0,0.04,Baixa
+AP02,11.33,69.0,9.0,0.04,Baixa
+AP03,36.33,44.0,8.0,0.02,Baixa
+AP04,13.67,71.67,4.33,0.03,Baixa

@@ -1,0 +1,10 @@
+{
+    "timestamp": "2026-10-06T22:11:24.846234",
+    "active_sessions": 437,
+    "dropped_packets": 6,
+    "most_blocked_ip": "192.168.0.197",
+    "cpu_use_percent": 21,
+    "ram_use_gb": 5,
+    "bytes_sent": 4527989,
+    "bytes_recv": 264590
+}
